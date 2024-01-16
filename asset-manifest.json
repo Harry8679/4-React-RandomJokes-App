@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/4-React-RandomJokes-App/static/css/main.e5b69b29.css",
+    "main.js": "/4-React-RandomJokes-App/static/js/main.261bb832.js",
+    "static/media/smiley.png": "/4-React-RandomJokes-App/static/media/smiley.6655e615bb83e99b6d11.png",
+    "index.html": "/4-React-RandomJokes-App/index.html",
+    "main.e5b69b29.css.map": "/4-React-RandomJokes-App/static/css/main.e5b69b29.css.map",
+    "main.261bb832.js.map": "/4-React-RandomJokes-App/static/js/main.261bb832.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5b69b29.css",
+    "static/js/main.261bb832.js"
+  ]
+}
